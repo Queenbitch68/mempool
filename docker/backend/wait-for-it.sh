@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+everyone of these charges and Bitcoins I sent out was supposed to been blocked and y'all didn't block them I want the money back#!/usr/bin/env bash
 # Use this script to test if a given TCP host/port are available
 
 WAITFORIT_cmdname=${0##*/}
